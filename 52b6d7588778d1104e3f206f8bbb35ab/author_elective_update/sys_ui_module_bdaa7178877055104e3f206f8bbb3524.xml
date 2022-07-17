@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="DELETE">
+        <active>true</active>
+        <application display_value="Events">35aa7178877055104e3f206f8bbb3522</application>
+        <filter/>
+        <name>Events</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_845662_laura_app.events_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-17 15:32:38</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>bdaa7178877055104e3f206f8bbb3524</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Events</sys_name>
+        <sys_package display_value="Laura_application" source="x_845662_laura_app">52b6d7588778d1104e3f206f8bbb35ab</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Laura_application">52b6d7588778d1104e3f206f8bbb35ab</sys_scope>
+        <sys_update_name>sys_ui_module_bdaa7178877055104e3f206f8bbb3524</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-17 15:32:38</sys_updated_on>
+        <table>x_845662_laura_app_events</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Laura_application">52b6d7588778d1104e3f206f8bbb35ab</application>
+        <file_path/>
+        <instance_id>681b285cdb1c4cd44d2bac44d4961997</instance_id>
+        <instance_name>dev94140</instance_name>
+        <name>sys_ui_module_bdaa7178877055104e3f206f8bbb3524</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module"><sys_ui_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Events">35aa7178877055104e3f206f8bbb3522</application><filter/><name>Events</name><order/><path/><path_relative_to_root>false</path_relative_to_root><roles>x_845662_laura_app.events_user</roles><sys_class_name>sys_ui_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-07-17 15:32:38</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>bdaa7178877055104e3f206f8bbb3524</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Events</sys_name><sys_package display_value="Laura_application" source="x_845662_laura_app">52b6d7588778d1104e3f206f8bbb35ab</sys_package><sys_policy/><sys_scope display_value="Laura_application">52b6d7588778d1104e3f206f8bbb35ab</sys_scope><sys_update_name>sys_ui_module_bdaa7178877055104e3f206f8bbb3524</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-07-17 15:32:38</sys_updated_on><table>x_845662_laura_app_events</table><uncancelable>false</uncancelable><view_name/></sys_ui_module></record_update>]]></payload>
+        <payload_hash>-287198893</payload_hash>
+        <record_name>Events</record_name>
+        <reverted_from/>
+        <source>1eb6d7588778d1104e3f206f8bbb35ac</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-17 15:32:38</sys_created_on>
+        <sys_id>b9aa7178877055104e3f206f8bbb3526</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1820cca43da0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-17 15:32:38</sys_updated_on>
+        <type>Module</type>
+        <update_guid>f1aa71785c7055104b0cd5e4a4c8d526</update_guid>
+        <update_guid_history>f1aa71785c7055104b0cd5e4a4c8d526:-287198893</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-17 16:43:06</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_module">sys_ui_module</sys_db_object>
+        <sys_id>4788e979a2f945e2b3698732d7d21be4</sys_id>
+        <sys_metadata>bdaa7178877055104e3f206f8bbb3524</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Events</sys_name>
+        <sys_package display_value="Laura_application" source="x_845662_laura_app">52b6d7588778d1104e3f206f8bbb35ab</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Laura_application">52b6d7588778d1104e3f206f8bbb35ab</sys_scope>
+        <sys_scope_delete display_value="">576f8c64d0ca4200bd768a85dfabaf10</sys_scope_delete>
+        <sys_update_name>sys_ui_module_bdaa7178877055104e3f206f8bbb3524</sys_update_name>
+        <sys_update_version display_value="sys_ui_module_bdaa7178877055104e3f206f8bbb3524">b9aa7178877055104e3f206f8bbb3526</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-17 16:43:06</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

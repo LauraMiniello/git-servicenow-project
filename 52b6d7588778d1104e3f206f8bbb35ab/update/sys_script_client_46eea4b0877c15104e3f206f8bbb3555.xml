@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script_client">
+    <sys_script_client action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applies_extended>false</applies_extended>
+        <condition/>
+        <description/>
+        <field>u_string_11</field>
+        <global>true</global>
+        <isolate_script>true</isolate_script>
+        <messages/>
+        <name>ClientScript2</name>
+        <order/>
+        <script><![CDATA[function onChange(control, oldValue, newValue, isLoading, isTemplate) {
+    if (isLoading || newValue === '') {
+        return;
+    }
+
+    var field_value = g_form.showFieldMsg('short_description');
+    if (field_value.lenght < 0);
+	g_form.showFieldMsg('short_description', '');
+	alert ('Short description cannot be empty field');
+	
+
+}]]></script>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-17 10:10:39</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>46eea4b0877c15104e3f206f8bbb3555</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>ClientScript2</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Laura_application" source="x_845662_laura_app">52b6d7588778d1104e3f206f8bbb35ab</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Laura_application">52b6d7588778d1104e3f206f8bbb35ab</sys_scope>
+        <sys_update_name>sys_script_client_46eea4b0877c15104e3f206f8bbb3555</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-17 10:16:10</sys_updated_on>
+        <table>x_845662_laura_app_laura_table</table>
+        <type>onChange</type>
+        <ui_type>10</ui_type>
+        <view/>
+    </sys_script_client>
+</record_update>

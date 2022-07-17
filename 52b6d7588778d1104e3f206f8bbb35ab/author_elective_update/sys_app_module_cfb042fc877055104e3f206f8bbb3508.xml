@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="Laura_application">c138d7588778d1104e3f206f8bbb355e</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint>page for app properties</hint>
+        <homepage/>
+        <image/>
+        <link_type>DIRECT</link_type>
+        <map_page/>
+        <mobile_title>Properties</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_845662_laura_app_events</name>
+        <order>1000</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query>system_properties_ui.do?sysparm_title=Events Application Properties&amp;sysparm_category=check Days Properties</query>
+        <report/>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-17 16:09:14</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>cfb042fc877055104e3f206f8bbb3508</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>Properties</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Laura_application" source="x_845662_laura_app">52b6d7588778d1104e3f206f8bbb35ab</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Laura_application">52b6d7588778d1104e3f206f8bbb35ab</sys_scope>
+        <sys_update_name>sys_app_module_cfb042fc877055104e3f206f8bbb3508</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-17 16:42:05</sys_updated_on>
+        <timeline_page/>
+        <title>Properties</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Laura_application">52b6d7588778d1104e3f206f8bbb35ab</application>
+        <file_path/>
+        <instance_id>681b285cdb1c4cd44d2bac44d4961997</instance_id>
+        <instance_name>dev94140</instance_name>
+        <name>sys_app_module_cfb042fc877055104e3f206f8bbb3508</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Laura_application">c138d7588778d1104e3f206f8bbb355e</application><assessment/><device_type/><filter/><hint>page for app properties</hint><homepage/><image/><link_type>DIRECT</link_type><map_page/><mobile_title>Properties</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_845662_laura_app_events</name><order>1000</order><override_menu_roles>false</override_menu_roles><query>system_properties_ui.do?sysparm_title=Events Application Properties&amp;sysparm_category=check Days Properties</query><report/><roles/><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-07-17 16:09:14</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>cfb042fc877055104e3f206f8bbb3508</sys_id><sys_mod_count>5</sys_mod_count><sys_name>Properties</sys_name><sys_overrides/><sys_package display_value="Laura_application" source="x_845662_laura_app">52b6d7588778d1104e3f206f8bbb35ab</sys_package><sys_policy/><sys_scope display_value="Laura_application">52b6d7588778d1104e3f206f8bbb35ab</sys_scope><sys_update_name>sys_app_module_cfb042fc877055104e3f206f8bbb3508</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-07-17 16:42:05</sys_updated_on><timeline_page/><title>Properties</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>472076123</payload_hash>
+        <record_name>Properties</record_name>
+        <reverted_from/>
+        <source>1eb6d7588778d1104e3f206f8bbb35ac</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-17 16:42:05</sys_created_on>
+        <sys_id>438acaf487b055104e3f206f8bbb3515</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1820d09d93b0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-17 16:42:05</sys_updated_on>
+        <type>Module</type>
+        <update_guid>8b8acaf420b055106f7db8a53f4ffc14</update_guid>
+        <update_guid_history>8b8acaf420b055106f7db8a53f4ffc14:472076123,a85a0ef4a9b055107013cdde5746036b:2038854001,8ee90e74b5b0551060140348eac082b7:-343317898,ec2546f02fb05510956a74fbbae41253:-1398212015,abc302707bb055103d6ab33811107531:-1316583719,3d0306bcbd705510925d08459a3ebc53:813824400</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Properties">21caca3887b055104e3f206f8bbb350e</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-17 16:43:04</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>2d59b3888a8c44e49825847989791c10</sys_id>
+        <sys_metadata>cfb042fc877055104e3f206f8bbb3508</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Properties</sys_name>
+        <sys_package display_value="Laura_application" source="x_845662_laura_app">52b6d7588778d1104e3f206f8bbb35ab</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Laura_application">52b6d7588778d1104e3f206f8bbb35ab</sys_scope>
+        <sys_scope_delete display_value="">576f8c64d0ca4200bd768a85dfabaf10</sys_scope_delete>
+        <sys_update_name>sys_app_module_cfb042fc877055104e3f206f8bbb3508</sys_update_name>
+        <sys_update_version display_value="sys_app_module_cfb042fc877055104e3f206f8bbb3508">438acaf487b055104e3f206f8bbb3515</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-17 16:43:04</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

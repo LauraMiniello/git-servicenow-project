@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="DELETE">
+        <category display_value="" name="x_845662_laura_app_events">x_845662_laura_app_events</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1000</number>
+        <prefix>EVE</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-17 15:32:39</sys_created_on>
+        <sys_id>86aa7178877055104e3f206f8bbb356d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>EVE</sys_name>
+        <sys_package display_value="Laura_application" source="x_845662_laura_app">52b6d7588778d1104e3f206f8bbb35ab</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Laura_application">52b6d7588778d1104e3f206f8bbb35ab</sys_scope>
+        <sys_update_name>sys_number_86aa7178877055104e3f206f8bbb356d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-17 15:32:39</sys_updated_on>
+    </sys_number>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Laura_application">52b6d7588778d1104e3f206f8bbb35ab</application>
+        <file_path/>
+        <instance_id>681b285cdb1c4cd44d2bac44d4961997</instance_id>
+        <instance_name>dev94140</instance_name>
+        <name>sys_number_86aa7178877055104e3f206f8bbb356d</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number"><sys_number action="INSERT_OR_UPDATE"><category display_value="" name="x_845662_laura_app_events">x_845662_laura_app_events</category><maximum_digits>7</maximum_digits><number>1000</number><prefix>EVE</prefix><sys_class_name>sys_number</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-07-17 15:32:39</sys_created_on><sys_id>86aa7178877055104e3f206f8bbb356d</sys_id><sys_mod_count>0</sys_mod_count><sys_name>EVE</sys_name><sys_package display_value="Laura_application" source="x_845662_laura_app">52b6d7588778d1104e3f206f8bbb35ab</sys_package><sys_policy/><sys_scope display_value="Laura_application">52b6d7588778d1104e3f206f8bbb35ab</sys_scope><sys_update_name>sys_number_86aa7178877055104e3f206f8bbb356d</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-07-17 15:32:39</sys_updated_on></sys_number></record_update>]]></payload>
+        <payload_hash>-598208946</payload_hash>
+        <record_name>EVE</record_name>
+        <reverted_from/>
+        <source>1eb6d7588778d1104e3f206f8bbb35ac</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-17 15:32:39</sys_created_on>
+        <sys_id>02aa7178877055104e3f206f8bbb3587</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1820cca497a0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-17 15:32:39</sys_updated_on>
+        <type>Number</type>
+        <update_guid>4aaa7178be7055101f4282225c483c86</update_guid>
+        <update_guid_history>4aaa7178be7055101f4282225c483c86:-598208946</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-17 16:43:06</sys_created_on>
+        <sys_db_object display_value="" name="sys_number">sys_number</sys_db_object>
+        <sys_id>034dc06e0b64428688fb32a1e999c024</sys_id>
+        <sys_metadata>86aa7178877055104e3f206f8bbb356d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>EVE</sys_name>
+        <sys_package display_value="Laura_application" source="x_845662_laura_app">52b6d7588778d1104e3f206f8bbb35ab</sys_package>
+        <sys_parent display_value="">c69af538877055104e3f206f8bbb354f</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Laura_application">52b6d7588778d1104e3f206f8bbb35ab</sys_scope>
+        <sys_scope_delete display_value="">576f8c64d0ca4200bd768a85dfabaf10</sys_scope_delete>
+        <sys_update_name>sys_number_86aa7178877055104e3f206f8bbb356d</sys_update_name>
+        <sys_update_version display_value="sys_number_86aa7178877055104e3f206f8bbb356d">02aa7178877055104e3f206f8bbb3587</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-17 16:43:06</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

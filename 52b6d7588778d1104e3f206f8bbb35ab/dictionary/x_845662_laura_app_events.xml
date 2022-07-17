@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Events" max_length="40" name="x_845662_laura_app_events" type="collection">
+        <element label="Date" max_length="40" name="date" type="glide_date_time"/>
+        <element label="Name" max_length="40" name="name" type="string"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Other" max_length="40" name="other" type="string"/>
+        <element label="Proposed by" max_length="40" name="proposed_by" type="string"/>
+        <element choice="1" label="type of event" max_length="40" name="type_of_event" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Indoor" sequence="0" value="indoor"/>
+                <element inactive_on_update="false" label="Outdoor" sequence="1" value="outdoor"/>
+                <element inactive_on_update="false" label="Online" sequence="2" value="online"/>
+                <element inactive_on_update="false" label="Other" sequence="3" value="other"/>
+            </choice>
+        </element>
+    </element>
+</database>
